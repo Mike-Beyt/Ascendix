@@ -1,3 +1,13 @@
+Note: This is not complete!
+The landing page is responsive!
+I am currently working on other pages of the website.
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
